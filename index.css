@@ -1,0 +1,26 @@
+body{
+    background-image: url('background-image.jpg');
+    background-size: 90vw 100vh;
+}
+
+.container{
+    margin-top:30vh;
+    background-color: antiquewhite;
+    
+}
+.registration.form{
+    width:900px;
+    margin: auto;
+}
+.title{
+    text-align: center;
+}
+.submit-button{
+    text-align:center;
+}
+/* .valid-feedback {
+     display: block
+}
+.invalid-feedback {
+    display: block;
+} */
